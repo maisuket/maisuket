@@ -67,18 +67,7 @@ Busco sempre desenvolver soluções que não apenas funcionem, mas que sejam:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisuket&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisuket&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 🔥 Projetos em Destaque
-
-> 💡 Dica: fixe (pin) seus melhores repositórios no perfil
 
 * 🚀 **SafetyOps Workspace**
   ERP modular para gestão de operações de campo (SST, banco de horas e frota)
