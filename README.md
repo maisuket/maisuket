@@ -1,54 +1,111 @@
-Olá, eu sou o @maisuket 👋
+# 👋 Olá, eu sou o Mauro (@maisuket)
 
-Especialista Sênior em Backend | Node.js & NestJS Specialist
+🚀 **Backend Engineer | Node.js & NestJS**
 
-Apaixonado por construir sistemas escaláveis, robustos e de alta performance. Minha abordagem de desenvolvimento é guiada pelos princípios de Clean Code, SOLID e Design Patterns, garantindo que o código não apenas funcione, mas seja sustentável a longo prazo.
+Construo sistemas **escaláveis, robustos e orientados a performance**, com foco em arquitetura bem definida e código sustentável.
 
-🚀 Sobre Mim
+> 💡 *"Talk is cheap. Show me the code."* — Linus Torvalds
 
-🛠️ Especialista no ecossistema Node.js, com foco profundo em NestJS.
+---
 
-🏗️ Experiência em arquitetura de microsserviços e APIs RESTful documentadas com Swagger.
+## 🚀 Sobre Mim
 
-🗄️ Domínio em persistência de dados utilizando Prisma ORM com PostgreSQL e SQLite.
+Sou especializado no ecossistema **Node.js**, com forte atuação em backend moderno utilizando **NestJS**.
 
-🔐 Implementação de segurança avançada com JWT e Guards personalizados.
+Minha abordagem é baseada em:
 
-🧪 Defensor de testes automatizados e validação rigorosa de dados com class-validator.
+* 🧱 **Clean Architecture**
+* 🧠 **SOLID Principles**
+* 🔄 **Design Patterns**
+* 🧪 **Testes automatizados**
 
-🛠️ Tech Stack
+Busco sempre desenvolver soluções que não apenas funcionem, mas que sejam:
+✔️ Escaláveis
+✔️ Manuteníveis
+✔️ Preparadas para crescimento
 
-Linguagens: TypeScript (Strict Mode), JavaScript (ES6+).
+---
 
-Frameworks: NestJS, Express.
+## 🛠️ Tech Stack
 
-ORM/DB: Prisma, PostgreSQL, Redis, MongoDB.
+### 💻 Linguagens
 
-Ferramentas: Docker, GitHub Actions (CI/CD), Swagger (OpenAPI).
+* TypeScript (Strict Mode)
+* JavaScript (ES6+)
 
-Padrões: Clean Architecture, TDD, DDD, Event-Driven Architecture.
+### ⚙️ Backend & Frameworks
 
-📈 Estatísticas do GitHub
+* NestJS
+* Express
+
+### 🗄️ Banco de Dados & ORM
+
+* Prisma ORM
+* PostgreSQL
+* SQLite
+* MongoDB
+* Redis
+
+### 🔐 Segurança
+
+* JWT (Access & Refresh Token)
+* Guards customizados
+* RBAC (Role-Based Access Control)
+
+### 🧰 Ferramentas & DevOps
+
+* Docker
+* GitHub Actions (CI/CD)
+* Swagger (OpenAPI)
+
+### 🧠 Arquitetura
+
+* Clean Architecture
+* DDD (Domain-Driven Design)
+* TDD (Test-Driven Development)
+* Event-Driven Architecture
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmaisuket%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmaisuket%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisuket&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisuket&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-🔭 Projetos em Destaque
+---
 
-(Dica: Pin os repositórios que utilizam a stack NestJS + Prisma no seu perfil)
+## 🔥 Projetos em Destaque
 
-[Nome do Projeto]: API robusta desenvolvida com NestJS, seguindo princípios de Clean Architecture.
+> 💡 Dica: fixe (pin) seus melhores repositórios no perfil
 
-[Nome do Projeto]: Sistema de autenticação JWT com Refresh Tokens e RBAC.
+* 🚀 **SafetyOps Workspace**
+  ERP modular para gestão de operações de campo (SST, banco de horas e frota)
+  → Stack: NestJS + Prisma + React
 
-📫 Como me encontrar
+* 🔐 **Auth System (JWT + RBAC)**
+  Sistema completo de autenticação com refresh token e controle de acesso
 
-LinkedIn: linkedin.com/in/seu-usuario
+* 🧩 **API Clean Architecture**
+  Estrutura backend escalável com separação de camadas e boas práticas
 
-Email: seu-email@exemplo.com
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://linkedin.com/in/Mdaisuke
+* 📧 Email: [seu-email@exemplo.com](mailto:mauro.daisuke@gmail.com)
+
+---
+
+## 🧠 Filosofia
+
+> Código bom resolve problemas.
+> Código bem estruturado resolve problemas **por muito tempo**.
+
+---
 
 <p align="center">
-<i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+  Feito com ☕ + Node.js + muita curiosidade
 </p>
