@@ -84,7 +84,7 @@ Busco sempre desenvolver soluções que não apenas funcionem, mas que sejam:
 ## 📫 Contato
 
 * 💼 LinkedIn: https://linkedin.com/in/Mdaisuke
-* 📧 Email: [seu-email@exemplo.com](mailto:mauro.daisuke@gmail.com)
+* 📧 Email: [mauro.daisuke@gmail.com](mailto:mauro.daisuke@gmail.com)
 
 ---
 
